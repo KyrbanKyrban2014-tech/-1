@@ -1,0 +1,1 @@
+worker: python bot_fixed_v2.py
